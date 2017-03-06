@@ -12,8 +12,8 @@ Resources Page:
 
 Admin Login Page:
 
-![ScreenShot](https://gyazo.com/2fe94b98242fc982931181ee5fba65d2)
+![ScreenShot](https://i.gyazo.com/2fe94b98242fc982931181ee5fba65d2.png)
 
 Admin Control Panel:
 
-![ScreenShot](https://gyazo.com/01d512a13fbb9a5b8842eca9a8352ecc)
+![ScreenShot](https://i.gyazo.com/01d512a13fbb9a5b8842eca9a8352ecc.png)
