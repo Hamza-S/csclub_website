@@ -1,7 +1,7 @@
 # CS Club Website
-First web-dev project, for school's computer science club. Purpose of website is for club leaders to communicate to members by posting, posts, to the home-page.
+First web-dev project, for school's computer science club. Purpose of website is for club leaders to communicate to members by posting to the home-page.
 
-Posts were stored in an SQL database, and brought to the website using HTML/CSS and PHP.
+Posts were stored in an SQL database, and brought to the website using PHP and HTML/CSS
 
 Homepage:
 ![ScreenShot](https://i.gyazo.com/7e0f7dc50fcfc97fbb27703654e68db5.png)
